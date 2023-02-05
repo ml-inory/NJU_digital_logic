@@ -1,0 +1,5 @@
+top=mux42
+
+Y (SW1, SW0)
+X (SW9, SW8, SW7, SW6, SW5, SW4, SW3, SW2)
+F (LD1, LD0)
