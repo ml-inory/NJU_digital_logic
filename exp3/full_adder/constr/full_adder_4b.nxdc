@@ -1,0 +1,6 @@
+top=full_adder_4b
+
+a (SW3, SW2, SW1, SW0)
+b (SW7, SW6, SW5, SW4)
+sum (LD3, LD2, LD1, LD0)
+carry LD4

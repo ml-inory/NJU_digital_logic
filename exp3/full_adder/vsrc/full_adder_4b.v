@@ -1,5 +1,4 @@
 /* verilator lint_off UNOPTFLAT */
-/* verilator lint_off PINMISSING */
 module full_adder(a, b, cin, sum, cout);
     input a;
     input b;

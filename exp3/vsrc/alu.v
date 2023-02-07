@@ -1,3 +1,5 @@
+/* verilator lint_off UNOPTFLAT */
+/* verilator lint_off PINMISSING */
 module alu(a, b, op, add_out, sub_out, not_out, and_out, or_out, xor_out, lt, eq);
     input [3:0] a;
     input [3:0] b;
